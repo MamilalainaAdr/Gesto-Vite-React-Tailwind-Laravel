@@ -1,0 +1,11 @@
+body{
+    margin: 0px;
+}
+
+ul{
+    padding-inline-start: 0px !important;
+}
+
+.dataList{
+    box-shadow: 5px 5px 15px 0px #f1f1f1;
+}
